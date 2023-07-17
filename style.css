@@ -1,0 +1,35 @@
+.navbar {
+    position: absolute ;
+    top: 10px; ;
+}
+.content  {
+    margin: 20px;
+    display: flex;
+}
+.bloc{
+    width: 100%;
+    
+}
+.edwige{
+    background-color: rgb(21, 20, 31);
+    color: aliceblue;
+    padding: 5%;
+}
+.blok{
+    background-color: black;
+padding: 5%;
+} 
+.blok .A{
+padding-left: 400px;
+}
+.blok .A a{
+    color: aliceblue;
+    margin: 5px;
+   
+}
+.container-fluid{
+    padding-left: 500px;
+}
+.container-fluid form{
+    
+}
